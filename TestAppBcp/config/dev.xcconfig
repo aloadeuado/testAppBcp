@@ -1,0 +1,10 @@
+//
+//  dev.xcconfig
+//  TestAppBcp
+//
+//  Created by Pedro Alonso Daza B on 22/05/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+KURL_BASE = "http://localhost:4000/api/v1"

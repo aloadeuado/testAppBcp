@@ -1,13 +1,13 @@
 //
-//  test_app_bcpUITestsLaunchTests.swift
-//  test_app_bcpUITests
+//  TestAppBcpUITestsLaunchTests.swift
+//  TestAppBcpUITests
 //
-//  Created by Pedro Alonso Daza B on 23/05/22.
+//  Created by Pedro Alonso Daza B on 22/05/22.
 //
 
 import XCTest
 
-class test_app_bcpUITestsLaunchTests: XCTestCase {
+class TestAppBcpUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

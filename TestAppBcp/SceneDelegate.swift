@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  test_app_bcp
+//  TestAppBcp
 //
-//  Created by Pedro Alonso Daza B on 23/05/22.
+//  Created by Pedro Alonso Daza B on 22/05/22.
 //
 
 import UIKit

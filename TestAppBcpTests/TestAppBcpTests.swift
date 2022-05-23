@@ -1,14 +1,14 @@
 //
-//  test_app_bcpTests.swift
-//  test_app_bcpTests
+//  TestAppBcpTests.swift
+//  TestAppBcpTests
 //
-//  Created by Pedro Alonso Daza B on 23/05/22.
+//  Created by Pedro Alonso Daza B on 22/05/22.
 //
 
 import XCTest
-@testable import test_app_bcp
+@testable import TestAppBcp
 
-class test_app_bcpTests: XCTestCase {
+class TestAppBcpTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
